@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+    transition: ease-in-out;
+}
+
+header {
+    background: #272C3d;
+}
+
+.p {
+
+    color: white;
+}
+
+.active {
+    color: orange;
+}
+
+.container ul {
+    display: flex;
+    gap: 40px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 25px;
+}
+
+.ota_row input{
+    border: none;
+    padding: 6px;
+}
+
+.ota_row img{
+    position: relative;
+    right: 60px;
+}
+
+.container input {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 6px;
+    background-color: #3b4668;
+}
+
+.ota {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #272C3d;
+    padding-right: 25px;
+}
+
+li {
+    color: white;
+}
+
+.ota_row {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.ota_row select {
+    background: #32353f;
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+    color: #fff;
+}
+
+main {
+    background-image: url(./images/95254beaaafd285b4e172b29b2bb169b461afa6d.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #000;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 98px;
+    padding-top: 25px;
+}
+
+.text {
+    padding-top: 61px;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.images_5 {
+    display: flex;
+    align-items: center;
+}
+
+.parent {
+    padding-left: 245px;
+    display: flex;
+    background: #1B1E27;
+}
+
+.right {
+    position: relative;
+    top: 80px;
+    width: 323px;
+    height: 234px;
+    padding-left: 13px;
+    color: white;
+    padding-top: 25px;
+}
+
+.parent {
+    padding-left: 245px;
+    display: flex;
+    background: #1B1E27;
+}
+
+.family {
+    padding-left: 245px;
+    display: flex;
+    background: #1B1E27;
+}
+
+.right_text {
+    position: relative;
+    top: 80px;
+    width: 323px;
+    height: 234px;
+    padding-left: 13px;
+    color: rgb(249, 241, 241);
+    background: #1B1E27;
+    padding-top: 25px;
+}
+
+header {
+    background: #272C3d;
+}
+
+.footer {
+    display: flex;
+    justify-content: end;
+    aic
+}
